@@ -23,7 +23,7 @@ In this talk we want to present, in an intuitive way and through examples, these
  - [Theories of z3](https://theory.stanford.edu/~nikolaj/programmingz3.html#sec-theories) 
  - [CVC5 online](https://cvc5.github.io/app/#temp_9063c7e8-a8ec-4ca6-acd6-8a6286021401)
  - [CDCL(T): SMT solver algorithm](https://users.aalto.fi/~tjunttil/2020-DP-AUT/notes-smt/lazy.html)
- - [Combining theories: Nelson-Oppen](docs/nelson_oppen_techniques.pdf)
+ - [Combining theories: Nelson-Oppen](https://sqig.math.ist.utl.pt/pub/RasgaJ/13-C-MScThesis.pdf)
  - [AWS use case of SMTs: billion smt queries a day](https://www.amazon.science/blog/a-billion-smt-queries-a-day)
  - Convert CVC5 proofs to dot: on [CVC5 online](https://cvc5.github.io/app/#temp_9063c7e8-a8ec-4ca6-acd6-8a6286021401) you can set the options
 `(set-option :produce-proofs true)` and 
